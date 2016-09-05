@@ -8,5 +8,6 @@ public class BootStrap {
 
 	public static void main(String[] args) throws Exception {
 		SpringApplication.run(BootStrap.class, args);
+		System.out.print('c');
 	}
 }
